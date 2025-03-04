@@ -7,5 +7,14 @@
  5. Tugas-midProject
  6. Tugas-php
  7. Tugas-finalProject
+
+
  Daftar perintah GiT
- …
+ 1. git clone https://github.com/Klosop/belajarGIT --> Clone repository ke lokal
+ 2. git checkout -b <branch-name> --> Membuat branch baru dengan nama
+ 3. Touch <file.txt> --> Membuat file txt
+ 4. nano <file.txt> --> Mengedit file txt
+ 5. git add <file.txt> --> Menambahkan file (perubahan)  ke staging area
+ 6. git switch main --> Memindahkan branch yang sedang digunakan kepada branch main (untuk bisa push branch ke branch main)
+ 7. git push origin main --> Mengunggah perubahan ke GitHub
+ 8. git push origin --all --> Mengunggah semua branch ke Github
