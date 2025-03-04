@@ -15,6 +15,7 @@
  3. Touch <file.txt> --> Membuat file txt
  4. nano <file.txt> --> Mengedit file txt
  5. git add <file.txt> --> Menambahkan file (perubahan)  ke staging area
- 6. git switch main --> Memindahkan branch yang sedang digunakan kepada branch main (untuk bisa push branch ke branch main)
- 7. git push origin main --> Mengunggah perubahan ke GitHub
- 8. git push origin --all --> Mengunggah semua branch ke Github
+ 6. git commit -m "<message>" --> Menyimpan perubahan dengan pesan
+ 7. git switch main --> Memindahkan branch yang sedang digunakan kepada branch main (untuk bisa push branch ke branch main)
+ 8. git push origin main --> Mengunggah perubahan ke GitHub
+ 9. git push origin --all --> Mengunggah semua branch ke Github
